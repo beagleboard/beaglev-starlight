@@ -1,5 +1,6 @@
 ## BeagleV Starlight hardware design
-* Please open hardware issues in this reposotiry
+* [BeagleV Starlight](https://beagleboard.org/beaglev) is the official name for the BeagleBoard.org RISC-V board with the StarFive 71x0 SoC
+* Please open hardware issues in this repository 
 * Documentation:
   * [BeagleV Starlight landing page](https://beagleboard.org/beaglev)
   * [BeagleV Starlight Getting Started guide](https://wiki.seeedstudio.com/BeagleV-Getting-Started/)
