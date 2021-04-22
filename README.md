@@ -10,7 +10,8 @@
 * Design files:
   * `BeagleV v0.9.DSN`: Cadence OrCAD schematic
   * `BeagleV_15.brd`: Cadence Allegro board layout
-    *  Cadence Allegro Viewer can be [downloaded from Cadence](https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/allegro-downloads-start.html)
+    * Cadence Allegro Viewer can be [downloaded from Cadence](https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/allegro-downloads-start.html)
+    * compressed in zip file to be under 100MB
   * `LIBRARY1.OLB`: Cadence OrCAD schematic library
   * `BEAGLE V.opj`: Cadence OrCAD project file
 * Discussion forum:
