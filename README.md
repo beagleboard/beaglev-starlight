@@ -18,3 +18,6 @@
   * [BeagleV public group](https://forum.beagleboard.org/c/beaglev-beta/16)
   * [BeagleV beta developer group](https://forum.beagleboard.org/c/beaglev-beta/16)
     * note: this is a private, contact Drew Fustini (drew at beagleboard.org)
+* License:
+  * [CERN-OHL-P (permissive)](https://ohwr.org/cern_ohl_p_v2.txt)
+  * More information on [CERN Open Hardware License (OHL) v2](https://ohwr.org/project/cernohl/wikis/home)
