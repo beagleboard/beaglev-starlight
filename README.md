@@ -2,7 +2,6 @@
 * [BeagleV Starlight](https://beagleboard.org/beaglev) is the official name for the BeagleBoard.org RISC-V board with the StarFive 71x0 SoC
 * Please open hardware issues in this repository 
 * Documentation:
-  * [BeagleV Starlight landing page](https://beagleboard.org/beaglev)
   * [BeagleV Starlight Getting Started guide](https://wiki.seeedstudio.com/BeagleV-Getting-Started/)
   * [StarFive JH7100 SoC datasheet](https://github.com/starfive-tech/beaglev_doc/blob/main/JH7100%20Data%20Sheet%20V01.01.04-EN%20(4-21-2021).pdf)
   * [SiFive U7 core manual](https://github.com/starfive-tech/beaglev_doc/blob/main/vic_u7_manual_with_creativecommons.pdf)
