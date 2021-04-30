@@ -21,3 +21,28 @@
 * License:
   * [CERN-OHL-P (permissive)](https://ohwr.org/cern_ohl_p_v2.txt)
   * More information on [CERN Open Hardware License (OHL) v2](https://ohwr.org/project/cernohl/wikis/home)
+
+
+### Guidance on naming conventions
+* Spelling should be BeagleV not Beagle-V
+  * BeagleV is BeagleBoard.org Foundation's name for RISC-V boards
+* The board name is [BeagleV Starlight](https://github.com/beagleboard/beaglev-starlight) for this board.
+  * The board that limited number of developers have thus far received is beta version of the BeagleV Starlight
+  * [This FAQ](https://wiki.seeedstudio.com/BeagleV-Getting-Started/#faq) describes difference between beta and production.
+* Board vendor is BeagleBoard.org Foundation
+  * BeagleV Starlight is manufactured by Seeed Studio for BeagleBoard.org Foundation
+  * Refer to`"^beagle,.*"` in [vendor-prefixes.yaml](https://www.kernel.org/doc/Documentation/devicetree/bindings/)
+* StarFive SoC: VIC renamed to JH
+  * The beta BeagleV Starlight board has StarFive JH7100 SoC
+  * StarFive had referred it internally as VIC7100 but the public name is JH7100
+  * StarFive has renamed datasheet to [JH7100](https://github.com/starfive-tech/beaglev_doc/blob/main/JH7100%20Data%20Sheet%20V01.01.04-EN%20(4-21-2021).pdf)
+  * There are still many references to VIC and VIC7100 instead of JH7100 which will be cleaned up
+* StarFive JH7100 versus JH7110
+  * The beta BeagleV Starlight board has the StarFive JH7100
+  * StarFive JH7110 is mass production chip which will be used in future BeagleV Starlight boards
+    *  JH7110 upgrade from 2x to 4x U74 cores and adds PCIe and GPU
+  * Recommendation is to use `beagle,beaglev-starlight-jh7100` and `beagle,beaglev-starlight-jh7110` to differientate between the board versions
+* SiFive cores in the StarFive SoC:
+  * StarFive JH7100 SoC has 2x SiFive U74-MC
+  * StarFive JH7110 SoC will have 4x SiFive U74-MC
+  * Datasheet: [U7 Core Manual](https://github.com/starfive-tech/beaglev_doc/blob/main/vic_u7_manual_with_creativecommons.pdf)
