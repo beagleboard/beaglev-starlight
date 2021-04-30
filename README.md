@@ -7,6 +7,7 @@
   * [SiFive U7 core manual](https://github.com/starfive-tech/beaglev_doc/blob/main/vic_u7_manual_with_creativecommons.pdf)
   * [StarFive Freelight U SDK](https://github.com/starfive-tech/freelight-u-sdk)
   * [Fedora image](https://github.com/starfive-tech/beaglev_fedora)
+  * [Update bootloader, ddr init boot, u-boot and Recover bootloader](https://wiki.seeedstudio.com/BeagleV-Update-bootloader-ddr-init-boot-uboot-Recover-bootloader/)
 * Design files:
   * `BeagleV v0.9.DSN`: Cadence OrCAD schematic
   * `BeagleV_15.brd`: Cadence Allegro board layout
