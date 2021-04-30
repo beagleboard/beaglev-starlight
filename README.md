@@ -5,14 +5,19 @@
   * [BeagleV Starlight Getting Started guide](https://wiki.seeedstudio.com/BeagleV-Getting-Started/)
   * [StarFive JH7100 SoC datasheet](https://github.com/starfive-tech/beaglev_doc/blob/main/JH7100%20Data%20Sheet%20V01.01.04-EN%20(4-21-2021).pdf)
   * [SiFive U7 core manual](https://github.com/starfive-tech/beaglev_doc/blob/main/vic_u7_manual_with_creativecommons.pdf)
-  * [StarFive Freelight U SDK](https://github.com/starfive-tech/freelight-u-sdk)
-  * [Fedora image](https://github.com/starfive-tech/beaglev_fedora)
+* Tutorials:
+  * [Getting Started with BeagleV™ - StarLight](https://wiki.seeedstudio.com/BeagleV-Getting-Started/)
+  * [How to Make File System, Compile u-boot and Linux Kernel](https://wiki.seeedstudio.com/BeagleV-Make-File-System-Compile-uboot-Kernal/)
   * [Update bootloader, ddr init boot, u-boot and Recover bootloader](https://wiki.seeedstudio.com/BeagleV-Update-bootloader-ddr-init-boot-uboot-Recover-bootloader/)
 * Code:
+  * [Fedora image](https://github.com/starfive-tech/beaglev_fedora)
   * [Linux 5.10](https://github.com/starfive-tech/linux)
   * [U-Boot 2021.04](https://github.com/starfive-tech/u-boot)
   * [OpenSBI v0.9](https://github.com/starfive-tech/opensbi)
-* Design files:
+  * [StarFive Freelight U SDK](https://github.com/starfive-tech/freelight-u-sdk)
+  * [secondBoot](https://github.com/starfive-tech/beagle_secondBoot)
+  * [ddrinit](https://github.com/starfive-tech/beagle_ddrlnit)
+* PCB design:
   * `BeagleV v0.9.DSN`: Cadence OrCAD schematic
   * `BeagleV_15.brd`: Cadence Allegro board layout
     * Cadence Allegro Viewer can be [downloaded from Cadence](https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/allegro-downloads-start.html)
