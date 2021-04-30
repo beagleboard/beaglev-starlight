@@ -1,6 +1,6 @@
 ## BeagleV Starlight hardware design
-* [BeagleV Starlight](https://beagleboard.org/beaglev) is the official name for the BeagleBoard.org RISC-V board with the StarFive 71x0 SoC
-* PCB design:
+[BeagleV Starlight](https://beagleboard.org/beaglev) is the official name for the BeagleBoard.org RISC-V board with the StarFive 71x0 SoC
+### PCB design
   * **Please open hardware issues in this repository**
   * `BeagleV v0.9.DSN`: Cadence OrCAD schematic
   * `BeagleV_15.brd`: Cadence Allegro board layout
@@ -9,7 +9,7 @@
   * `LIBRARY1.OLB`: Cadence OrCAD schematic library
   * `BEAGLE V.opj`: Cadence OrCAD project file
   * [`BeagleV_v0.9.pdf`](https://github.com/beagleboard/beaglev-starlight/blob/main/BeagleV_v0.9.pdf): OrCAD schematic exported to PDF
-* Software:
+### Software:
   * [StarFive Freelight U SDK](https://github.com/starfive-tech/freelight-u-sdk)
   * [Fedora RISC-V image](https://github.com/starfive-tech/Fedora_on_StarFive)
   * [Linux 5.10](https://github.com/starfive-tech/linux)
@@ -17,23 +17,21 @@
   * [OpenSBI v0.9](https://github.com/starfive-tech/opensbi)
   * [secondBoot](https://github.com/starfive-tech/beagle_secondBoot)
   * [ddrinit](https://github.com/starfive-tech/beagle_ddrlnit)
-* Tutorials:
+### Tutorials
   * [Getting Started with BeagleV™ - StarLight](https://wiki.seeedstudio.com/BeagleV-Getting-Started/)
   * [How to Make File System, Compile u-boot and Linux Kernel](https://wiki.seeedstudio.com/BeagleV-Make-File-System-Compile-uboot-Kernal/)
   * [Update bootloader, ddr init boot, u-boot and Recover bootloader](https://wiki.seeedstudio.com/BeagleV-Update-bootloader-ddr-init-boot-uboot-Recover-bootloader/)
-* Documentation:
+### Documentation
   * [StarFive JH7100 SoC datasheet](https://github.com/starfive-tech/beaglev_doc/blob/main/JH7100%20Data%20Sheet%20V01.01.04-EN%20(4-21-2021).pdf)
   * [SiFive U74 core manual](https://github.com/starfive-tech/beaglev_doc/blob/main/vic_u7_manual_with_creativecommons.pdf)
   * [Memorandum - L2 Cache Coherence](https://github.com/starfive-tech/beaglev_doc/blob/main/JH7100%20Cache%20Coherence%20V1.0.pdf)
-* Discussion forum:
+### Discussion forum
   * [BeagleV public group](https://forum.beagleboard.org/c/beaglev-beta/16)
   * [BeagleV beta developer group](https://forum.beagleboard.org/c/beaglev-beta/16)
     * note: this is a private, contact Drew Fustini (drew at beagleboard.org)
-* License:
+### License
   * [CERN-OHL-P (permissive)](https://ohwr.org/cern_ohl_p_v2.txt)
   * More information on [CERN Open Hardware License (OHL) v2](https://ohwr.org/project/cernohl/wikis/home)
-
-
 ### Guidance on naming conventions
 * Spelling should be BeagleV not Beagle-V
   * BeagleV is BeagleBoard.org Foundation's name for RISC-V boards
