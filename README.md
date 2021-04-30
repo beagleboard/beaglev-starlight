@@ -1,5 +1,5 @@
 ## BeagleV Starlight hardware design
-[BeagleV Starlight](https://beagleboard.org/beaglev) is the official name for the BeagleBoard.org RISC-V board with the StarFive 71x0 SoC
+[BeagleV Starlight](https://beagleboard.org/beaglev) is the official name for the BeagleBoard.org RISC-V board with the StarFive 7100 SoC
 ### PCB design
   * **Please open hardware issues in this repository**
   * `BeagleV v0.9.DSN`: Cadence OrCAD schematic
@@ -9,7 +9,7 @@
   * `LIBRARY1.OLB`: Cadence OrCAD schematic library
   * `BEAGLE V.opj`: Cadence OrCAD project file
   * [`BeagleV_v0.9.pdf`](https://github.com/beagleboard/beaglev-starlight/blob/main/BeagleV_v0.9.pdf): OrCAD schematic exported to PDF
-### Software:
+### Software
   * [StarFive Freelight U SDK](https://github.com/starfive-tech/freelight-u-sdk)
   * [Fedora RISC-V image](https://github.com/starfive-tech/Fedora_on_StarFive)
   * [Linux 5.10](https://github.com/starfive-tech/linux)
@@ -28,7 +28,7 @@
 ### Discussion forum
   * [BeagleV public group](https://forum.beagleboard.org/c/beaglev-beta/16)
   * [BeagleV beta developer group](https://forum.beagleboard.org/c/beaglev-beta/16)
-    * note: this is a private, contact Drew Fustini (drew at beagleboard.org)
+    * note: this is private forum for beta developers, contact drew@beagleboard.org
 ### License
   * [CERN-OHL-P (permissive)](https://ohwr.org/cern_ohl_p_v2.txt)
   * More information on [CERN Open Hardware License (OHL) v2](https://ohwr.org/project/cernohl/wikis/home)
@@ -54,4 +54,4 @@
 * SiFive cores in the StarFive SoC:
   * StarFive JH7100 SoC has 2x SiFive U74-MC
   * StarFive JH7110 SoC will have 4x SiFive U74-MC
-  * Datasheet: [U7 Core Manual](https://github.com/starfive-tech/beaglev_doc/blob/main/vic_u7_manual_with_creativecommons.pdf)
+  * Datasheet: [SiFive U74 Core Manual](https://github.com/starfive-tech/beaglev_doc/blob/main/vic_u7_manual_with_creativecommons.pdf)
