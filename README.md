@@ -1,7 +1,13 @@
-## BeagleV Starlight hardware design
-[BeagleV Starlight](https://beagleboard.org/beaglev) is the official name for the BeagleBoard.org RISC-V board with the StarFive 7100 SoC
+## BeagleV Starlight
+[BeagleV Starlight](https://beagleboard.org/beaglev) is the official name for the BeagleBoard.org RISC-V board with the StarFive 7100 SoC.
+
+A [pre-production beta version](https://wiki.seeedstudio.com/BeagleV-Getting-Started/#faq) has been sent to a limited number of upstream developers for software enablement.
+
+Please [join our public Beaglev forum](https://forum.beagleboard.org/c/beaglev/15) for updates on the official product launch of the BeagleV Starlight with distributors.
+
 ### PCB design
   * **Please open hardware issues in this repository**
+  * This repository has the PCB design of the pre-production beta version
   * `BeagleV v0.9.DSN`: Cadence OrCAD schematic
   * `BeagleV_15.brd`: Cadence Allegro board layout
     * Cadence Allegro Viewer can be [downloaded from Cadence](https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/allegro-downloads-start.html)
