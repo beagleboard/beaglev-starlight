@@ -1,7 +1,7 @@
-## BeagleV Starlight
-[BeagleV Starlight](https://beagleboard.org/beaglev) is the official name for the BeagleBoard.org RISC-V board with the StarFive 7100 SoC.
+## BeagleV Starlight beta prototype
+[BeagleV Starlight](https://beagleboard.org/beaglev) is a Linux-capable RISC-V 64-bit dev board.
 
-A [pre-production beta version](https://wiki.seeedstudio.com/BeagleV-Getting-Started/#faq) has been sent to a limited number of upstream developers for software enablement.
+A [beta prototype version](https://wiki.seeedstudio.com/BeagleV-Getting-Started/#faq) has been sent to a limited number of upstream developers for software enablement.  This beta prototype uses the StarFive JH7100 SoC.  **The hardware design is not final and modifications are expected.**
 
 Please [join our public Beaglev forum](https://forum.beagleboard.org/c/beaglev/15) for updates on the official product launch of the BeagleV Starlight with distributors.
 
