@@ -3,7 +3,7 @@
 
 A [pre-production beta version](https://wiki.seeedstudio.com/BeagleV-Getting-Started/#faq) has been sent to a limited number of upstream developers for software enablement.
 
-Please [join our public Beaglev forum](https://forum.beagleboard.org/c/beaglev/15) for updates on the official product launch of the BeagleV Starlight with distributors.
+Please [join our public BeagleV forum](https://forum.beagleboard.org/c/beaglev/15) for updates on the official product launch of the BeagleV Starlight with distributors.
 
 ### PCB design
   * **Please open hardware issues in this repository**
@@ -24,7 +24,7 @@ Please [join our public Beaglev forum](https://forum.beagleboard.org/c/beaglev/1
   * [secondBoot](https://github.com/starfive-tech/beagle_secondBoot)
   * [ddrinit](https://github.com/starfive-tech/beagle_ddrlnit)
 ### Tutorials
-  * [Getting Started with BeagleV™ - StarLight](https://wiki.seeedstudio.com/BeagleV-Getting-Started/)
+  * [Getting Started with BeagleV™ - Starlight](https://wiki.seeedstudio.com/BeagleV-Getting-Started/)
   * [How to Make File System, Compile u-boot and Linux Kernel](https://wiki.seeedstudio.com/BeagleV-Make-File-System-Compile-uboot-Kernal/)
   * [Update bootloader, ddr init boot, u-boot and Recover bootloader](https://wiki.seeedstudio.com/BeagleV-Update-bootloader-ddr-init-boot-uboot-Recover-bootloader/)
 ### Documentation
@@ -55,7 +55,7 @@ Please [join our public Beaglev forum](https://forum.beagleboard.org/c/beaglev/1
 * StarFive JH7100 versus JH7110
   * The beta BeagleV Starlight board has the StarFive JH7100
   * StarFive JH7110 is mass production chip which will be used in future BeagleV Starlight boards
-    *  JH7110 upgrade from 2x to 4x U74 cores and adds PCIe and GPU
+    * JH7110 upgrade from 2x to 4x U74 cores and adds PCIe and GPU
   * Recommendation is to use `beagle,beaglev-starlight-jh7100` and `beagle,beaglev-starlight-jh7110` to differientate between the board versions
 * SiFive cores in the StarFive SoC:
   * StarFive JH7100 SoC has 2x SiFive U74-MC
