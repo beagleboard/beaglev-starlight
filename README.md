@@ -16,13 +16,18 @@ Please [join our public Beaglev forum](https://forum.beagleboard.org/c/beaglev/1
   * `BEAGLE V.opj`: Cadence OrCAD project file
   * [`BeagleV_v0.9.pdf`](https://github.com/beagleboard/beaglev-starlight/blob/main/BeagleV_v0.9.pdf): OrCAD schematic exported to PDF
 ### Software
-  * [StarFive Freelight U SDK](https://github.com/starfive-tech/freelight-u-sdk)
-  * [Fedora RISC-V image](https://github.com/starfive-tech/Fedora_on_StarFive)
-  * [Linux 5.10](https://github.com/starfive-tech/linux)
+  * [secondBoot](https://github.com/starfive-tech/beagle_secondBoot): first-stage bootloader on SPI flash
+  * [ddrinit](https://github.com/starfive-tech/beagle_ddrinit): initializes DDR memory and copies opensbi+uboot to DDR
+  * [OpenSBI v0.9](https://github.com/starfive-tech/opensbi): compiled with u-boot as payload
   * [U-Boot 2021.04](https://github.com/starfive-tech/u-boot)
-  * [OpenSBI v0.9](https://github.com/starfive-tech/opensbi)
-  * [secondBoot](https://github.com/starfive-tech/beagle_secondBoot)
-  * [ddrinit](https://github.com/starfive-tech/beagle_ddrlnit)
+  * [Linux 5.10](https://github.com/starfive-tech/linux/tree/Fedora) used by [Wei Fu](https://github.com/tekkamanninja) for Fedora image
+  * [Linux 5.12](https://github.com/esmil/linux/blob/starlight-devel/README.md) by [@esmil](https://github.com/esmil/)
+  * [Linux 5.13](https://github.com/geertu/linux/tree/starlight-v5.13-rc1) by [@geertu](https://github.com/geertu)
+  * [Fedora RISC-V image](https://github.com/starfive-tech/Fedora_on_StarFive) by [Wei Fu](https://github.com/tekkamanninja)
+  * [Buildroot](https://github.com/tpetazzoni/buildroot/blob/beaglev/board/beaglev/readme.txt) by [@tpetazzoni](https://github.com/tpetazzoni)
+  * [Yocto/OpenEmbedded](https://github.com/riscv/meta-riscv/pull/281) by [Khem Raj](https://github.com/kraj)
+  * [bootloader recovery utility](https://github.com/kprasadvnsi/JH71xx-tools) by [@kprasadvnsi](https://github.com/kprasadvnsi)
+  * [Renode](https://antmicro.com/blog/2021/05/linux-on-beaglev-starlight-in-renode/)
 ### Tutorials
   * [Getting Started with BeagleV™ - StarLight](https://wiki.seeedstudio.com/BeagleV-Getting-Started/)
   * [How to Make File System, Compile u-boot and Linux Kernel](https://wiki.seeedstudio.com/BeagleV-Make-File-System-Compile-uboot-Kernal/)
