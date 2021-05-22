@@ -24,7 +24,7 @@ Please [join our public BeagleV forum](https://forum.beagleboard.org/c/beaglev/1
   * [Linux 5.13](https://github.com/esmil/linux/blob/starlight/README.md) and [Linux 5.12.y](https://github.com/esmil/linux/blob/starlight-5.12.y/README.md) by [@esmil](https://github.com/esmil/)
   * [Linux 5.13](https://github.com/geertu/linux/tree/starlight-v5.13-rc1) by [@geertu](https://github.com/geertu)
   * [Fedora RISC-V image](https://github.com/starfive-tech/Fedora_on_StarFive) by [Wei Fu](https://github.com/tekkamanninja)
-  * [Buildroot](https://github.com/tpetazzoni/buildroot/blob/beaglev/board/beaglev/readme.txt) by [@tpetazzoni](https://github.com/tpetazzoni)
+  * [Buildroot](https://github.com/buildroot/buildroot/blob/master/board/beaglev/readme.txt) by [@tpetazzoni](https://github.com/tpetazzoni)
   * [Yocto/OpenEmbedded](https://github.com/riscv/meta-riscv/pull/281) by [Khem Raj](https://github.com/kraj)
   * [bootloader recovery utility](https://github.com/kprasadvnsi/JH71xx-tools) by [@kprasadvnsi](https://github.com/kprasadvnsi)
   * [Renode](https://antmicro.com/blog/2021/05/linux-on-beaglev-starlight-in-renode/)
