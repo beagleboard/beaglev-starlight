@@ -20,9 +20,8 @@ Please [join our public BeagleV forum](https://forum.beagleboard.org/c/beaglev/1
   * [ddrinit](https://github.com/starfive-tech/beagle_ddrinit): initializes DDR memory and copies opensbi+uboot to DDR
   * [OpenSBI v0.9](https://github.com/starfive-tech/opensbi): compiled with u-boot as payload
   * [U-Boot 2021.04](https://github.com/starfive-tech/u-boot)
-  * [Linux 5.10](https://github.com/starfive-tech/linux/tree/Fedora) used by [Wei Fu](https://github.com/tekkamanninja) for Fedora image
-  * [Linux 5.13](https://github.com/esmil/linux/blob/starlight/README.md) and [Linux 5.12.y](https://github.com/esmil/linux/blob/starlight-5.12.y/README.md) by [@esmil](https://github.com/esmil/)
-  * [Linux 5.13](https://github.com/geertu/linux/tree/starlight-v5.13-rc1) by [@geertu](https://github.com/geertu)
+  * [Linux 5.10](https://github.com/starfive-tech/linux/tree/fedora-vic-7100_5.10.6) used by [Wei Fu](https://github.com/tekkamanninja) for Fedora image
+  * [Linux 5.13](https://github.com/starfive-tech/linux/tree/esmil_starlight) maintained by [@esmil](https://github.com/esmil/)
   * [Fedora RISC-V image](https://github.com/starfive-tech/Fedora_on_StarFive) by [Wei Fu](https://github.com/tekkamanninja)
   * [Buildroot](https://github.com/buildroot/buildroot/blob/master/board/beaglev/readme.txt) by [@tpetazzoni](https://github.com/tpetazzoni)
   * [Yocto/OpenEmbedded](https://github.com/riscv/meta-riscv/pull/281) by [Khem Raj](https://github.com/kraj)
