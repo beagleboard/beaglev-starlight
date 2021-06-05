@@ -15,6 +15,7 @@ Please [join our public BeagleV forum](https://forum.beagleboard.org/c/beaglev/1
   * `LIBRARY1.OLB`: Cadence OrCAD schematic library
   * `BEAGLE V.opj`: Cadence OrCAD project file
   * [`BeagleV_v0.9.pdf`](https://github.com/beagleboard/beaglev-starlight/blob/main/BeagleV_v0.9.pdf): OrCAD schematic exported to PDF
+  * [KiCad conversion (WIP)](https://gitlab.com/aswinvenu/beaglev-kicad.git): work in progress, Aswin Venu is [converting the design](https://forum.beagleboard.org/t/beaglev-kicad/30006?u=drewfustini) to KiCad
 ### Software
   * [secondBoot](https://github.com/starfive-tech/beagle_secondBoot): first-stage bootloader on SPI flash
   * [ddrinit](https://github.com/starfive-tech/beagle_ddrinit): initializes DDR memory and copies opensbi+uboot to DDR
