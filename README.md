@@ -23,6 +23,7 @@ Please [join our public BeagleV forum](https://forum.beagleboard.org/c/beaglev/1
   * [U-Boot 2021.04](https://github.com/starfive-tech/u-boot)
   * [Linux 5.10](https://github.com/starfive-tech/linux/tree/fedora-vic-7100_5.10.6) used by [Wei Fu](https://github.com/tekkamanninja) for Fedora image
   * [Linux 5.13](https://github.com/starfive-tech/linux/tree/esmil_starlight) maintained by [@esmil](https://github.com/esmil/)
+  * [daily Debian builds](https://rcn-ee.net/rootfs/debian-riscv64/) from [RobertCNelson/riscv64-multiplatform](https://github.com/RobertCNelson/riscv64-multiplatform)
   * [Fedora RISC-V image](https://github.com/starfive-tech/Fedora_on_StarFive) by [Wei Fu](https://github.com/tekkamanninja)
   * [Buildroot](https://github.com/buildroot/buildroot/blob/master/board/beaglev/readme.txt) by [@tpetazzoni](https://github.com/tpetazzoni)
   * [Yocto/OpenEmbedded](https://github.com/riscv/meta-riscv/pull/281) by [Khem Raj](https://github.com/kraj)
