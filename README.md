@@ -62,7 +62,7 @@ Please [join our public BeagleV forum](https://forum.beagleboard.org/c/beaglev/1
   * The beta BeagleV Starlight board has the StarFive JH7100
   * StarFive JH7110 is mass production chip which will be used in future BeagleV Starlight boards
     * JH7110 upgrade from 2x to 4x U74 cores and adds PCIe and GPU
-  * Recommendation is to use `beagle,beaglev-starlight-jh7100` and `beagle,beaglev-starlight-jh7110` to differientate between the board versions
+  * Recommendation is to use `beagle,beaglev-starlight-jh7100` and `beagle,beaglev-starlight-jh7110` to differentiate between the board versions
 * SiFive cores in the StarFive SoC:
   * StarFive JH7100 SoC has 2x SiFive U74-MC
   * StarFive JH7110 SoC will have 4x SiFive U74-MC
